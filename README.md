@@ -1,6 +1,6 @@
-Rpc
+# rpc
 
-muduo网络库，learn from  https://github.com/shenmingik/muduo/tree/main
+基于netlib的rpc框架，learn from  https://github.com/shenmingik/muduo/tree/main
 
 环境：腾讯云服务器centos7
 
