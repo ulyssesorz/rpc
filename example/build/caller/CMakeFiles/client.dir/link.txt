@@ -1,0 +1,1 @@
+/opt/rh/devtoolset-7/root/usr/bin/c++    -rdynamic CMakeFiles/client.dir/CallUserService.o CMakeFiles/client.dir/__/src/User.pb.o  -o client  -lrpc -lprotobuf -lnetlib -lpthread -lzookeeper_mt 

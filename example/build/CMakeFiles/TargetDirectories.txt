@@ -1,0 +1,10 @@
+/root/rpc/example/build/CMakeFiles/rebuild_cache.dir
+/root/rpc/example/build/CMakeFiles/edit_cache.dir
+/root/rpc/example/build/src/CMakeFiles/rebuild_cache.dir
+/root/rpc/example/build/src/CMakeFiles/edit_cache.dir
+/root/rpc/example/build/callee/CMakeFiles/edit_cache.dir
+/root/rpc/example/build/callee/CMakeFiles/rebuild_cache.dir
+/root/rpc/example/build/callee/CMakeFiles/provider.dir
+/root/rpc/example/build/caller/CMakeFiles/rebuild_cache.dir
+/root/rpc/example/build/caller/CMakeFiles/edit_cache.dir
+/root/rpc/example/build/caller/CMakeFiles/client.dir

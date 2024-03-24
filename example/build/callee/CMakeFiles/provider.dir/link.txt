@@ -1,0 +1,1 @@
+/opt/rh/devtoolset-7/root/usr/bin/c++    -rdynamic CMakeFiles/provider.dir/Useservice.o CMakeFiles/provider.dir/__/src/User.pb.o  -o provider  -lrpc -lprotobuf -lnetlib -lpthread -lzookeeper_mt 
